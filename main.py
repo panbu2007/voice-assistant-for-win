@@ -1,6 +1,6 @@
 from config import APPID, APISecret, APIKey
 if APPID == '' or APISecret == '' or APIKey == '':
-    raise RuntimeError('请输入讯飞开放平台语音识别服务API接口认证信息 https://www.xfyun.cn/')
+    raise RuntimeError('请在cofig.py中输入讯飞开放平台语音识别服务API接口认证信息 https://www.xfyun.cn/')
 
 import os
 import sys, time, threading
