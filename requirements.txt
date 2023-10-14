@@ -1,0 +1,9 @@
+ttkbootstrap
+pyaudio
+websocket==0.2.1
+numpy
+comtypes
+pycaw
+pywin32
+pypiwin32
+clueai
