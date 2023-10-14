@@ -22,6 +22,12 @@
 ```
 pip install -r requirements.txt
 ```
-注意：由于使用科大讯飞语音技术，需要在`config.py`中输入对应的接口认证信息
+⚠️⚠️⚠️注意：由于使用科大讯飞语音技术，需要在`config.py`中输入对应的接口认证信息⚠️⚠️⚠️  
+
+\
+运行`main.py`
+```
+python main.py
+```
 ##
 > 待完善。。。
